@@ -3,3 +3,6 @@ stable-baselines3
 sb3-contrib
 numpy
 ipykernel
+nbconvert
+matplotlib
+pandas
