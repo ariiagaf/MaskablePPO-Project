@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 *.pyc
 *.zip
+results/*.monitor.csv
+results/evaluation/
+models/*
+!models/maskable_ppo_taxi.zip
