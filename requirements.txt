@@ -1,8 +1,10 @@
-gymnasium[toy-text]
-stable-baselines3
-sb3-contrib
-numpy
+gymnasium[toy-text]==1.4.0
+stable-baselines3==2.9.0
+sb3-contrib==2.9.0
+numpy==2.5.4
+torch==2.14.1
 ipykernel
 nbconvert
 matplotlib
 pandas
+Pillow
