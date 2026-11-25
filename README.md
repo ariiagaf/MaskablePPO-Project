@@ -219,8 +219,6 @@ The final notebook contains assertions that verify the original submitted model'
 
 The training curve and demonstration GIF displayed in the final notebook correspond to the original training run.
 
-Retraining is optional and is not required to evaluate the submitted model or examine the numerical policy update example.
-
 ## References
 
 - Schulman et al., [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
